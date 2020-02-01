@@ -1,0 +1,2 @@
+Visual Guide to Pandas : https://www.youtube.com/watch?v=9d5-Ti6onew
+Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby) : https://www.youtube.com/watch?v=vmEHCJofslg

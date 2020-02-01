@@ -2,4 +2,4 @@ build:
 	docker build -t intro_to_pandas .
 
 start:
-	docker run --rm -p 8888:8888 intro_to_pandas
+	docker run --rm -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v $(PWD):/opt/code intro_to_pandas
